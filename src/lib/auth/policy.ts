@@ -9,7 +9,7 @@ export function safeNext(value: unknown): string {
   return value === "/home" ? value : "/home";
 }
 
-export function validate(form: FormData, mode: "sign-in" | "register" | "forgot-password" | "reset-password") {
+export function validate(form: FormData, mode: "sign-in" | "register" | "forgot-password" | "reset-password" | "resend-confirmation") {
   const email = String(form.get("email") ?? "").trim();
   const password = String(form.get("password") ?? "");
   const confirmPassword = String(form.get("confirmPassword") ?? "");
@@ -17,7 +17,7 @@ export function validate(form: FormData, mode: "sign-in" | "register" | "forgot-
   if (mode !== "reset-password" && (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || email.length > 254)) {
     fields.email = "Enter a valid email address.";
   }
-  if (mode !== "forgot-password") {
+  if (mode !== "forgot-password" && mode !== "resend-confirmation") {
     if (!password || password.length > 128) fields.password = "Enter a password of at most 128 characters.";
     if ((mode === "register" || mode === "reset-password") && password.length < 12) {
       fields.password = "Use at least 12 characters. A longer passphrase is welcome.";

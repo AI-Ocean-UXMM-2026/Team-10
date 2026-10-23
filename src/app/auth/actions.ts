@@ -40,10 +40,27 @@ export async function register(_: AuthState, form: FormData): Promise<AuthState>
       options: { emailRedirectTo: `${await appOrigin()}/auth/callback` },
     });
     if (error) return { error: authError(error) };
-    if (!data.session) return { message: "If registration is available for this address, check your inbox and spam folder for a confirmation link. If you already have an account, sign in or reset your password." };
+    if (!data.session) return { message: "If registration is available for this address, check your inbox and spam folder. Open the confirmation email and click its link in this same browser and device. If you already have an account, sign in or reset your password." };
   } catch { return { error: authError(null) }; }
   revalidatePath("/", "layout");
   redirect("/home");
+}
+
+export async function resendConfirmation(_: AuthState, form: FormData): Promise<AuthState> {
+  const input = validate(form, "resend-confirmation");
+  if (!input.valid) return { fields: input.fields, error: "Check the highlighted fields." };
+  try {
+    const supabase = await createClient(true);
+    const { error } = await supabase.auth.resend({
+      type: "signup", email: input.email,
+      options: { emailRedirectTo: `${await appOrigin()}/auth/callback` },
+    });
+    // Match recovery's anti-enumeration policy, including truthful outage feedback.
+    if (error && (error.status === undefined || error.status >= 500 || error.status === 429 || error.code?.includes("rate_limit"))) {
+      return { error: authError(error) };
+    }
+  } catch { return { error: authError(null) }; }
+  return { message: "If this address has an account awaiting verification, you will receive a new confirmation email. Check your inbox and spam folder. Open the latest confirmation email and click its link in this same browser and device. If your email is already verified, sign in." };
 }
 
 export async function forgotPassword(_: AuthState, form: FormData): Promise<AuthState> {
