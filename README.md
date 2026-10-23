@@ -14,6 +14,13 @@ The application is hosted on Vercel and uses Supabase for authentication and per
 
 Registration email delivery is currently restricted; read [Demo Access & Current Limitations](#demo-access--current-limitations) before creating an account.
 
+## Competition Submission
+
+- [Pitch presentation (PDF)](submission/deck.pdf)
+- [Final pitch video](submission/S%40K%20Pitching_Final.mp4)
+
+The video is approximately 93 MiB; download it if an inline preview is unavailable.
+
 ## What Problem Does Nookstep Solve?
 
 “I should study” is often too vague to act on. Nookstep helps learners choose a specific finish line, focus for a manageable period, and remember where to begin next time. Room customization provides a small reward for returning to study.
