@@ -5,7 +5,7 @@ node_modules/
 AGENTS.md
 docs/
 .local/
-supabase/
+/supabase/
 tests/
 README.md
 *.tsbuildinfo
