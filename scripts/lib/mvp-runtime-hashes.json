@@ -1,0 +1,22 @@
+{
+  "/assets/room/decorations/books-01.png": "e01eba84099588cd4131ed1d40a3a79b2da696005ce35706132e93fe5b11f30c",
+  "/assets/room/decorations/candle-01.png": "b64caa021770c29efd7328ed453f1fb3edee27774eb1083e32df05469f28ea39",
+  "/assets/room/normalized/chair/chair-backLeft.png": "8de4b89d37932e58fc1b6626ff8d5386eca76341cc6e20f0ad18fc7e463bbbe0",
+  "/assets/room/normalized/chair/chair-backRight.png": "8462e584a45a3a2b6e5826904e5ec44f0b217acd8b3a678e56b034fad92136d9",
+  "/assets/room/normalized/chair/chair-frontLeft.png": "86f3569d827956ced0b576b02f3780aa424bc8e963739b910bad386b796b5990",
+  "/assets/room/normalized/chair/chair-frontRight.png": "608c872a02642a2884e670e4e3d83fa5deeace33f07d7da0e21bd365336c74a7",
+  "/assets/room/normalized/desk/desk-backLeft.png": "f74df58cd9c3f23a6d897b0d2d96e6e431a1c8b040febf7007b5fc07b17d5c11",
+  "/assets/room/normalized/desk/desk-backRight.png": "3e84d164227ba18e58f757e4a8e2d8df462e4d814dbb86dd6b39a03ec9becc85",
+  "/assets/room/normalized/desk/desk-frontLeft.png": "89ee2a8368a9396a9eb496eee3a01a860691564fd8d034524979ffed4a798fdc",
+  "/assets/room/normalized/desk/desk-frontRight.png": "d3bb8ebec742690f82757088b42ea0ca06bdb546940ad3f01c6c285c888ff327",
+  "/assets/room/normalized/lamp/lamp-backLeft.png": "e42ecee2f259773c2acf56ff719bd7e9c306aa7d9912b758e921e4e38136c876",
+  "/assets/room/normalized/lamp/lamp-backRight.png": "f5f9beb39db59fec5280e9dda696e2e681276d6243eac8517f67f4430f55f030",
+  "/assets/room/normalized/lamp/lamp-frontLeft.png": "bd78f512195037639f2de22f790dacd8f4b79193c93153a5a92934f3eaf3ca4b",
+  "/assets/room/normalized/lamp/lamp-frontRight.png": "cefd30719db42e50a602368cb60fa7446046e9ca23a76c1a033a3f1bb58cb368",
+  "/assets/room/normalized/sofa/sofa-backLeft.png": "9b450c7df978d8179df5996a9c092ad0216ec984cc398adc603f8f389b8b7d2d",
+  "/assets/room/normalized/sofa/sofa-backRight.png": "50b9324f781b6d357c0da03b4f3c35a6aea0a648be74150e0f2d4363e840dac8",
+  "/assets/room/normalized/sofa/sofa-frontLeft.png": "746a5b372ff7ddebebc41140bf74d5484ac18650e93da40de27489567922c548",
+  "/assets/room/normalized/sofa/sofa-frontRight.png": "afe868bc148d41e429b9c6c405b33426f9db0232c629fc1bb1e29c21ba7c38d2",
+  "/assets/room/wall-decorations/painting/painting-left.png": "be35779a1580cb859842caf32b35cd817ee3bf8ddb947d0f91f4ce03d3e02761",
+  "/assets/room/wall-decorations/painting/painting-right.png": "65093cc6bb65d7771666e787e9736dda807c00111752d6c990358648bbed5b47"
+}

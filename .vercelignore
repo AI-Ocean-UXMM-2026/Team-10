@@ -1,0 +1,12 @@
+.git/
+node_modules/
+.next/
+.env*
+AGENTS.md
+docs/
+.local/
+supabase/
+tests/
+README.md
+*.tsbuildinfo
+*.log

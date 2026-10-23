@@ -1,0 +1,15 @@
+.auth-layout { max-width:1200px; margin:3rem auto; display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:3rem; padding:1rem 2rem; align-items:center; }
+.auth-shell { width:100%; max-width:28rem; margin:auto; padding:1.5rem; overflow-wrap:anywhere; }
+.auth-shell h1 { margin:1rem 0; font-size:2.4rem; }
+.auth-form { display:grid; gap:1rem; margin-top:1.5rem; }
+.auth-form label { margin:0 0 .5rem; }
+.auth-form input:not([type=hidden]) { width:100%; }
+.auth-form button[type=submit] { background:var(--forest); color:white; border-color:var(--forest); }
+.auth-help { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:.5rem 1.5rem; }
+.auth-help a { display:inline-flex; align-items:center; min-height:44px; padding:.4rem 0; }
+.auth-art { padding:2rem; border-radius:18px; background:#f0eadc; }
+.auth-art h2 { font-family:Georgia,serif; font-size:2.3rem; font-weight:400; }
+.auth-art .room-scroll { background:transparent; }
+@media(max-width:700px) { .auth-layout { grid-template-columns:1fr; margin:1rem auto; padding:1rem; } .auth-shell { padding:.5rem; } .auth-art { display:none; } }
+
+.auth-layout > * { min-width:0; }

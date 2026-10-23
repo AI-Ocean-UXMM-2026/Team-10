@@ -1,0 +1,674 @@
+[
+  {
+    "source": "bookcase/bookcase-frontLeft.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      0,
+      93,
+      1186,
+      1219
+    ],
+    "visible_bounds": [
+      421,
+      248,
+      859,
+      1072
+    ],
+    "source_sha256": "9eec6721ac21419b9031d9fcaba5ba79e4158bbd90b0c81b30915fa70fbcd0b0",
+    "asset": "/assets/room/normalized/bookcase/bookcase-frontLeft.png",
+    "width": 438,
+    "height": 824,
+    "sha256": "235ed9bfbb2b4421f8fb470c2ded85aa8a1e5bb387ace9563c50cbb645e541e5"
+  },
+  {
+    "source": "bookcase/bookcase-frontRight.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      0,
+      19,
+      1117,
+      1212
+    ],
+    "visible_bounds": [
+      406,
+      248,
+      848,
+      1076
+    ],
+    "source_sha256": "e88e9a528c110693b9031a01810ce8c376b611be152daa235923d6d348d88a8c",
+    "asset": "/assets/room/normalized/bookcase/bookcase-frontRight.png",
+    "width": 442,
+    "height": 828,
+    "sha256": "4739c766f819b5a214344564181a4eed5e0f6bfe675956bae82620c2dd08a015"
+  },
+  {
+    "source": "bookcase/bookcase-backLeft.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      49,
+      54,
+      1218,
+      1238
+    ],
+    "visible_bounds": [
+      380,
+      153,
+      877,
+      1127
+    ],
+    "source_sha256": "f64b31a59ce4557eda51c386ea14e6757301c6c67dea0b93bb4a7e3fee3da5ed",
+    "asset": "/assets/room/normalized/bookcase/bookcase-backLeft.png",
+    "width": 497,
+    "height": 974,
+    "sha256": "cfa9f7c7d47bde0eb3d7d5a144b450c9573b96620df66ebacafed45ce06138e3"
+  },
+  {
+    "source": "bookcase/bookcase-backRight.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      33,
+      228,
+      1227,
+      1198
+    ],
+    "visible_bounds": [
+      437,
+      267,
+      866,
+      1048
+    ],
+    "source_sha256": "49c81e312c8b6a89c27183f20e08310ae4693cfbe13ec499ec3050ad84aa7071",
+    "asset": "/assets/room/normalized/bookcase/bookcase-backRight.png",
+    "width": 429,
+    "height": 781,
+    "sha256": "3371aebe50dad90695363e8b7d60cbdd0641865c975aa33db4f26bdcc1cf4bdb"
+  },
+  {
+    "source": "green-drawers/green-drawers-frontLeft.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      128,
+      65,
+      1235,
+      1228
+    ],
+    "visible_bounds": [
+      394,
+      265,
+      892,
+      1005
+    ],
+    "source_sha256": "573c33712f40c50c8af7cfface7cef82e0228c7cb9216814203678dcd6d83e37",
+    "asset": "/assets/room/normalized/green-drawers/green-drawers-frontLeft.png",
+    "width": 498,
+    "height": 740,
+    "sha256": "d826083a6396a56bb18e5419ccf60b274b059c37a2b7be3ed93c1d453f8a0d19"
+  },
+  {
+    "source": "green-drawers/green-drawers-frontRight.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      138,
+      136,
+      1029,
+      1154
+    ],
+    "visible_bounds": [
+      405,
+      335,
+      869,
+      983
+    ],
+    "source_sha256": "1cf74af3b596e8dc8ebe00ef82ae6cf4d4ffd32b46c2e94a86918f4afcb682a1",
+    "asset": "/assets/room/normalized/green-drawers/green-drawers-frontRight.png",
+    "width": 464,
+    "height": 648,
+    "sha256": "00eb000f4eaf8d024140415c1a9a676922782080eea7ae9558ed255c775a4c29"
+  },
+  {
+    "source": "green-drawers/green-drawers-backLeft.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      65,
+      19,
+      1222,
+      1230
+    ],
+    "visible_bounds": [
+      380,
+      267,
+      875,
+      994
+    ],
+    "source_sha256": "47f27b10890f9baf0254f4e24cd0c95a3f34cfca84580b2ef32745980e2c3b3a",
+    "asset": "/assets/room/normalized/green-drawers/green-drawers-backLeft.png",
+    "width": 495,
+    "height": 727,
+    "sha256": "bf0729e20c6a612dd18d32ba237fd01b965cb1e07594df81cfb14b65fec52fa8"
+  },
+  {
+    "source": "green-drawers/green-drawers-backRight.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      39,
+      113,
+      1234,
+      1214
+    ],
+    "visible_bounds": [
+      351,
+      222,
+      907,
+      1089
+    ],
+    "source_sha256": "1af61d4fc933dd4189219d3e31b262e8ee224e6d748e46867138ae372f8663fa",
+    "asset": "/assets/room/normalized/green-drawers/green-drawers-backRight.png",
+    "width": 556,
+    "height": 867,
+    "sha256": "1cfd8a0888087e1998261a1a356cd4446c4f0bc0f8d315649bf23a312dec3a2b"
+  },
+  {
+    "source": "sage-armchair/sage-armchair-frontLeft.png",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "original_bounds": [
+      81,
+      39,
+      1416,
+      998
+    ],
+    "visible_bounds": [
+      474,
+      239,
+      1073,
+      812
+    ],
+    "source_sha256": "7c423eac19d89a9d7530f8ebba0063bcb985fd0ca1a23702711766c9b338dce3",
+    "asset": "/assets/room/normalized/sage-armchair/sage-armchair-frontLeft.png",
+    "width": 599,
+    "height": 573,
+    "sha256": "870ffad0a6e37433b1c6deec1997157350da6aaaa3791de66e25d6cc6e838ffc"
+  },
+  {
+    "source": "sage-armchair/sage-armchair-frontRight.png",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "original_bounds": [
+      0,
+      99,
+      1260,
+      924
+    ],
+    "visible_bounds": [
+      396,
+      202,
+      1141,
+      858
+    ],
+    "source_sha256": "fedb154dbd7a9a43fcf58fc6514384b20111215f0a964b30766c86b2776ab4f0",
+    "asset": "/assets/room/normalized/sage-armchair/sage-armchair-frontRight.png",
+    "width": 745,
+    "height": 656,
+    "sha256": "5b67b0e0c6c619d912811e31291ecb91118b7d03c69bd7408de86f0d38ea1111"
+  },
+  {
+    "source": "sage-armchair/sage-armchair-backLeft.png",
+    "source_size": [
+      1360,
+      1156
+    ],
+    "original_bounds": [
+      81,
+      103,
+      1292,
+      1142
+    ],
+    "visible_bounds": [
+      382,
+      374,
+      992,
+      894
+    ],
+    "source_sha256": "edd7536d277edcf2d4dc10b385018a145a7709c114956bc5f0b706f6dfdffb34",
+    "asset": "/assets/room/normalized/sage-armchair/sage-armchair-backLeft.png",
+    "width": 610,
+    "height": 520,
+    "sha256": "9a8b7ffdb7712e4e73282c6ee351d15c12842b568cc7261cf22354a2b5254415"
+  },
+  {
+    "source": "sage-armchair/sage-armchair-backRight.png",
+    "source_size": [
+      1402,
+      1122
+    ],
+    "original_bounds": [
+      251,
+      55,
+      1348,
+      1090
+    ],
+    "visible_bounds": [
+      369,
+      275,
+      1100,
+      931
+    ],
+    "source_sha256": "293e84e4bffc0330a57a308ddeb9149352d8db3b3b6003c73b7cf69481495a13",
+    "asset": "/assets/room/normalized/sage-armchair/sage-armchair-backRight.png",
+    "width": 731,
+    "height": 656,
+    "sha256": "a4b8a46b3886630494c3ec299f4318218237312ab0d712d048dedb16bf15f6a3"
+  },
+  {
+    "source": "white-bedside/white-bedside-frontLeft.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      113,
+      352,
+      1093,
+      1117
+    ],
+    "visible_bounds": [
+      313,
+      354,
+      969,
+      977
+    ],
+    "source_sha256": "804614a184b359b7744f4e49194adaa8f69a1bfeb3fa4892193ade8eb43d2754",
+    "asset": "/assets/room/normalized/white-bedside/white-bedside-frontLeft.png",
+    "width": 656,
+    "height": 623,
+    "sha256": "c50b58cade449fa3fad0bc8bc8a83d0e17c7266b28f95a630b34b3a35b02e3e4"
+  },
+  {
+    "source": "white-bedside/white-bedside-frontRight.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      146,
+      408,
+      937,
+      985
+    ],
+    "visible_bounds": [
+      359,
+      410,
+      934,
+      983
+    ],
+    "source_sha256": "fb3dfba9b11d7f96d0ace72767861c5cefd96c8a2a73665c6cc18258de2afb0b",
+    "asset": "/assets/room/normalized/white-bedside/white-bedside-frontRight.png",
+    "width": 575,
+    "height": 573,
+    "sha256": "35f6c026138919ab11a82cd16b55ee3e484232b5686ad6057660ee456c787ad5"
+  },
+  {
+    "source": "white-bedside/white-bedside-backLeft.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      154,
+      176,
+      1087,
+      1129
+    ],
+    "visible_bounds": [
+      315,
+      330,
+      986,
+      1009
+    ],
+    "source_sha256": "a85554c29f5c50739565163612afb8b2206f749392156afe0e51ce18487ac422",
+    "asset": "/assets/room/normalized/white-bedside/white-bedside-backLeft.png",
+    "width": 671,
+    "height": 679,
+    "sha256": "8ddd8ad25ae3afabbd4c0bc4d10a10fd45632c1f98a64085ffa80d0dee96a63f"
+  },
+  {
+    "source": "white-bedside/white-bedside-backRight.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      33,
+      294,
+      1168,
+      1157
+    ],
+    "visible_bounds": [
+      330,
+      365,
+      924,
+      983
+    ],
+    "source_sha256": "2fef16f1fd781aed0aa0db97004078ad9daa166868b4761d4b4a050b4f83ce69",
+    "asset": "/assets/room/normalized/white-bedside/white-bedside-backRight.png",
+    "width": 594,
+    "height": 618,
+    "sha256": "0440842570d1a06770806487a4b7c201f155ead41b882d79b8ac5c71d0a7bb41"
+  },
+  {
+    "source": "wooden_table/table_bottom_left.png",
+    "source_size": [
+      660,
+      518
+    ],
+    "original_bounds": [
+      8,
+      8,
+      652,
+      510
+    ],
+    "visible_bounds": [
+      12,
+      10,
+      650,
+      509
+    ],
+    "source_sha256": "3af766ecd84b819d27e272b5f743dc67eb624992c053335af256681ac1a6e064",
+    "asset": "/assets/room/normalized/wooden_table/wooden_table-frontLeft.png",
+    "width": 638,
+    "height": 499,
+    "sha256": "8633dc30781f22b3e01f31c95f6d86f409f4e5f6bd3452c12d5a3b0ee8313a69"
+  },
+  {
+    "source": "wooden_table/table_bottom_right.png",
+    "source_size": [
+      659,
+      511
+    ],
+    "original_bounds": [
+      8,
+      8,
+      651,
+      503
+    ],
+    "visible_bounds": [
+      10,
+      10,
+      649,
+      500
+    ],
+    "source_sha256": "d3d83c4bd742da380b6f05e4e67cb3245851e1eed85808fb4d4bf1c9ca794c65",
+    "asset": "/assets/room/normalized/wooden_table/wooden_table-frontRight.png",
+    "width": 639,
+    "height": 490,
+    "sha256": "55a5b1c3ea6e25958a344833427eeebef8f33fd4d226e87cbf35c81a8e045531"
+  },
+  {
+    "source": "wooden_table/table_top_left.png",
+    "source_size": [
+      653,
+      503
+    ],
+    "original_bounds": [
+      7,
+      8,
+      647,
+      497
+    ],
+    "visible_bounds": [
+      9,
+      10,
+      645,
+      495
+    ],
+    "source_sha256": "43cbdf1a4c59f11398c2c95a5c281b32a1219795aca8403defab54761697c91a",
+    "asset": "/assets/room/normalized/wooden_table/wooden_table-backLeft.png",
+    "width": 636,
+    "height": 485,
+    "sha256": "db8ce942e9aec2f9dc2d542c08f78ffd3ec25bda6e35d7fc80f4a3cfbf42e2e6"
+  },
+  {
+    "source": "wooden_table/table_top_right.png",
+    "source_size": [
+      654,
+      503
+    ],
+    "original_bounds": [
+      8,
+      6,
+      646,
+      495
+    ],
+    "visible_bounds": [
+      10,
+      8,
+      642,
+      493
+    ],
+    "source_sha256": "f36e7f385ceaa78f10ec577717095b8167ec43ea518c1275a8a9926c7df89519",
+    "asset": "/assets/room/normalized/wooden_table/wooden_table-backRight.png",
+    "width": 632,
+    "height": 485,
+    "sha256": "1067548eccb8b56289d0b733de7c68786965aa5090a0e9339fa8d431312faf33"
+  },
+  {
+    "source": "teddy-cream/teddy-cream-frontLeft.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      0,
+      35,
+      1208,
+      1103
+    ],
+    "visible_bounds": [
+      318,
+      284,
+      910,
+      1082
+    ],
+    "source_sha256": "24b900e4bd6d7cfc370adb243dce1559471576352b52e9e69a215ec53be6a0d1",
+    "asset": "/assets/room/decorations/teddy-cream/teddy-cream-frontLeft.png",
+    "width": 592,
+    "height": 798,
+    "sha256": "de93274d7cfafec4ec4ebb85f26a55cd284de050ce7b3024e251d30d2a1664a1"
+  },
+  {
+    "source": "teddy-cream/teddy-cream-frontRight.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      121,
+      47,
+      1184,
+      1223
+    ],
+    "visible_bounds": [
+      401,
+      264,
+      964,
+      1065
+    ],
+    "source_sha256": "23dee65d70a4c0908043c076b3b6feb5318c86e0498b1d684e5320c16d8a140d",
+    "asset": "/assets/room/decorations/teddy-cream/teddy-cream-frontRight.png",
+    "width": 563,
+    "height": 801,
+    "sha256": "80520fc6514ab2a06f8a6f265ea7445f83d73e1f4003f47d280000bacb8a87d0"
+  },
+  {
+    "source": "teddy-cream/teddy-cream-backLeft.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      138,
+      85,
+      1210,
+      1150
+    ],
+    "visible_bounds": [
+      402,
+      311,
+      923,
+      1001
+    ],
+    "source_sha256": "8a037cd8299c3a4adb88f36c42dfafd21c1fba837a5e844abb30c3a4885bce6a",
+    "asset": "/assets/room/decorations/teddy-cream/teddy-cream-backLeft.png",
+    "width": 521,
+    "height": 690,
+    "sha256": "23527c232a60d29649101935877ac455e95f5a7b7fdb920e7eb5830d1d614625"
+  },
+  {
+    "source": "teddy-cream/teddy-cream-backRight.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      138,
+      178,
+      1142,
+      1069
+    ],
+    "visible_bounds": [
+      404,
+      345,
+      830,
+      952
+    ],
+    "source_sha256": "23be4e4037effd484bb5939aaa67962340297b8a6a3b6513956fe2a16c50210b",
+    "asset": "/assets/room/decorations/teddy-cream/teddy-cream-backRight.png",
+    "width": 426,
+    "height": 607,
+    "sha256": "40ca71d18436205e83784402f219f6ddeb54993dbca1c3823be0e7659f397a14"
+  },
+  {
+    "source": "clock-charcoal/clock-charcoal-frontRight.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      33,
+      47,
+      1200,
+      1236
+    ],
+    "visible_bounds": [
+      381,
+      279,
+      939,
+      1030
+    ],
+    "source_sha256": "c275518ccea130b13c6e5d61d83469791462014a587ef287ea56eb6e59736838",
+    "asset": "/assets/room/wall-decorations/clock-charcoal/clock-charcoal-left.png",
+    "width": 558,
+    "height": 751,
+    "sha256": "4e49939b18c50fac9ce242a1599303f62e3498e40d85f04800a4a9e48913158b"
+  },
+  {
+    "source": "clock-charcoal/clock-charcoal-frontLeft.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "original_bounds": [
+      0,
+      215,
+      1168,
+      1214
+    ],
+    "visible_bounds": [
+      339,
+      276,
+      931,
+      1031
+    ],
+    "source_sha256": "dd0678d782c762336408ddec10bbecdb6518efb3b681690ab552e667198520ce",
+    "asset": "/assets/room/wall-decorations/clock-charcoal/clock-charcoal-right.png",
+    "width": 592,
+    "height": 755,
+    "sha256": "0231439db5d5531408467e98d3536415274b7765ca3806c1dec285537b7aac45"
+  },
+  {
+    "source": "large-green-landscape/large-green-landscape-frontRight.png",
+    "source_size": [
+      1215,
+      1295
+    ],
+    "original_bounds": [
+      411,
+      237,
+      1077,
+      1056
+    ],
+    "visible_bounds": [
+      416,
+      240,
+      811,
+      1054
+    ],
+    "source_sha256": "2d484375cb6fbf5d4e1b6e8d9d8cf0328d6d43a97614b727c4498f739d9b8e59",
+    "asset": "/assets/room/wall-decorations/large-green-landscape/large-green-landscape-left.png",
+    "width": 395,
+    "height": 814,
+    "sha256": "c8b5bf460ffa2b0e22fc153a66bdb0ad769759b1fc71434341c25df2a6b64436"
+  },
+  {
+    "source": "large-green-landscape/large-green-landscape-frontLeft.png",
+    "source_size": [
+      1298,
+      1212
+    ],
+    "original_bounds": [
+      0,
+      70,
+      1158,
+      1204
+    ],
+    "visible_bounds": [
+      446,
+      163,
+      857,
+      1029
+    ],
+    "source_sha256": "4aa901794ddb53e35982d208878e5d7fa04b33ac0738483d48f859ab2d32341e",
+    "asset": "/assets/room/wall-decorations/large-green-landscape/large-green-landscape-right.png",
+    "width": 411,
+    "height": 866,
+    "sha256": "3b2a09cafe50139b2e953bf0bb24bb5b63d1b73b5c9f3c6d792cc4fbe3271ffe"
+  }
+]

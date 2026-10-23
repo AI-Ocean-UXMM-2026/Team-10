@@ -1,0 +1,154 @@
+{
+  "painting-left": {
+    "width": 670,
+    "height": 852,
+    "bounds": [
+      1,
+      1,
+      669,
+      851
+    ],
+    "anchorX": 335.0,
+    "anchorY": 426.0,
+    "localBounds": [
+      -8.35,
+      -16.575,
+      8.35,
+      16.425
+    ],
+    "sha256": "be35779a1580cb859842caf32b35cd817ee3bf8ddb947d0f91f4ce03d3e02761"
+  },
+  "painting-right": {
+    "width": 670,
+    "height": 862,
+    "bounds": [
+      1,
+      1,
+      669,
+      861
+    ],
+    "anchorX": 335.0,
+    "anchorY": 431.0,
+    "localBounds": [
+      -8.35,
+      -15.725000000000001,
+      8.35,
+      16.575
+    ],
+    "sha256": "65093cc6bb65d7771666e787e9736dda807c00111752d6c990358648bbed5b47"
+  },
+  "window-left": {
+    "width": 580,
+    "height": 830,
+    "bounds": [
+      0,
+      0,
+      580,
+      830
+    ],
+    "anchorX": 290.0,
+    "anchorY": 415.0,
+    "localBounds": [
+      -7.25,
+      -16.099999999999998,
+      7.25,
+      15.5
+    ],
+    "sha256": "5de68fc9205a645b37b840eb22a0502bd20318fd7d23f9b5d437547393734291"
+  },
+  "window-right": {
+    "width": 579,
+    "height": 831,
+    "bounds": [
+      0,
+      0,
+      579,
+      831
+    ],
+    "anchorX": 289.5,
+    "anchorY": 415.5,
+    "localBounds": [
+      -7.2375,
+      -16.1375,
+      7.237500000000001,
+      15.387500000000001
+    ],
+    "sha256": "ef97778a6380cf6f820a43060b47ac9086b42632e0b8a83fb3f72dd01e41fb4a"
+  },
+  "clock-charcoal-left": {
+    "width": 558,
+    "height": 751,
+    "bounds": [
+      0,
+      0,
+      558,
+      751
+    ],
+    "anchorX": 279.0,
+    "anchorY": 375.5,
+    "localBounds": [
+      -6.95,
+      -19.825000000000003,
+      6.975,
+      20.924999999999997
+    ],
+    "sha256": "4e49939b18c50fac9ce242a1599303f62e3498e40d85f04800a4a9e48913158b"
+  },
+  "clock-charcoal-right": {
+    "width": 592,
+    "height": 755,
+    "bounds": [
+      0,
+      0,
+      592,
+      755
+    ],
+    "anchorX": 296.0,
+    "anchorY": 377.5,
+    "localBounds": [
+      -7.4,
+      -19.5,
+      7.375,
+      19.575
+    ],
+    "sha256": "0231439db5d5531408467e98d3536415274b7765ca3806c1dec285537b7aac45"
+  },
+  "large-green-landscape-left": {
+    "width": 395,
+    "height": 814,
+    "bounds": [
+      0,
+      0,
+      395,
+      814
+    ],
+    "anchorX": 197.5,
+    "anchorY": 407.0,
+    "localBounds": [
+      -4.9125,
+      -17.8625,
+      4.9375,
+      16.9375
+    ],
+    "sha256": "c8b5bf460ffa2b0e22fc153a66bdb0ad769759b1fc71434341c25df2a6b64436"
+  },
+  "large-green-landscape-right": {
+    "width": 411,
+    "height": 866,
+    "bounds": [
+      0,
+      0,
+      411,
+      866
+    ],
+    "anchorX": 205.5,
+    "anchorY": 433.0,
+    "localBounds": [
+      -5.1375,
+      -18.587500000000002,
+      5.1125,
+      18.4375
+    ],
+    "sha256": "3b2a09cafe50139b2e953bf0bb24bb5b63d1b73b5c9f3c6d792cc4fbe3271ffe"
+  }
+}

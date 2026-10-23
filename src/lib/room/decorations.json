@@ -1,0 +1,134 @@
+{
+  "laptop-backLeft": {
+    "width": 528,
+    "height": 615,
+    "bounds": [
+      82,
+      161,
+      510,
+      474
+    ],
+    "anchorX": 346.0,
+    "anchorY": 445.83
+  },
+  "laptop-backRight": {
+    "width": 523,
+    "height": 663,
+    "bounds": [
+      57,
+      214,
+      486,
+      520
+    ],
+    "anchorX": 222.5,
+    "anchorY": 492.46
+  },
+  "laptop-frontLeft": {
+    "width": 527,
+    "height": 685,
+    "bounds": [
+      55,
+      130,
+      511,
+      543
+    ],
+    "anchorX": 290.5,
+    "anchorY": 505.83
+  },
+  "laptop-frontRight": {
+    "width": 542,
+    "height": 673,
+    "bounds": [
+      67,
+      136,
+      509,
+      528
+    ],
+    "anchorX": 278.5,
+    "anchorY": 492.72
+  },
+  "books-01": {
+    "width": 31,
+    "height": 23,
+    "bounds": [
+      0,
+      0,
+      31,
+      23
+    ],
+    "anchorX": 19.0,
+    "anchorY": 20.7
+  },
+  "candle-01": {
+    "width": 12,
+    "height": 19,
+    "bounds": [
+      0,
+      0,
+      12,
+      19
+    ],
+    "anchorX": 6.0,
+    "anchorY": 17.1
+  },
+  "coffeecups-01": {
+    "width": 12,
+    "height": 10,
+    "bounds": [
+      0,
+      0,
+      12,
+      10
+    ],
+    "anchorX": 4.5,
+    "anchorY": 9.0
+  },
+  "teddy-cream-frontLeft": {
+    "width": 592,
+    "height": 798,
+    "bounds": [
+      0,
+      0,
+      592,
+      798
+    ],
+    "anchorX": 339.5,
+    "anchorY": 718.2
+  },
+  "teddy-cream-frontRight": {
+    "width": 563,
+    "height": 801,
+    "bounds": [
+      0,
+      0,
+      563,
+      801
+    ],
+    "anchorX": 222.0,
+    "anchorY": 720.9
+  },
+  "teddy-cream-backLeft": {
+    "width": 521,
+    "height": 690,
+    "bounds": [
+      0,
+      0,
+      521,
+      690
+    ],
+    "anchorX": 291.5,
+    "anchorY": 621.0
+  },
+  "teddy-cream-backRight": {
+    "width": 426,
+    "height": 607,
+    "bounds": [
+      0,
+      0,
+      426,
+      607
+    ],
+    "anchorX": 272.0,
+    "anchorY": 546.3000000000001
+  }
+}

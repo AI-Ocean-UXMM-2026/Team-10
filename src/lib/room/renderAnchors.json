@@ -1,0 +1,194 @@
+{
+  "bed-frontLeft": {
+    "anchorX": 210.5,
+    "anchorY": 493.25
+  },
+  "bed-frontRight": {
+    "anchorX": 314.5,
+    "anchorY": 492.75
+  },
+  "bed-backLeft": {
+    "anchorX": 194.5,
+    "anchorY": 425.75
+  },
+  "bed-backRight": {
+    "anchorX": 340.5,
+    "anchorY": 422.75
+  },
+  "chair-frontLeft": {
+    "anchorX": 194.0,
+    "anchorY": 485.5
+  },
+  "chair-frontRight": {
+    "anchorX": 148.0,
+    "anchorY": 465.5
+  },
+  "chair-backLeft": {
+    "anchorX": 136.0,
+    "anchorY": 418.5
+  },
+  "chair-backRight": {
+    "anchorX": 143.0,
+    "anchorY": 417.0
+  },
+  "desk-frontLeft": {
+    "anchorX": 357.142857,
+    "anchorY": 408.071429
+  },
+  "desk-frontRight": {
+    "anchorX": 143.142857,
+    "anchorY": 407.928571
+  },
+  "desk-backLeft": {
+    "anchorX": 357.142857,
+    "anchorY": 402.571429
+  },
+  "desk-backRight": {
+    "anchorX": 143.142857,
+    "anchorY": 400.928571
+  },
+  "sofa-frontLeft": {
+    "anchorX": 435.0,
+    "anchorY": 471.0
+  },
+  "sofa-frontRight": {
+    "anchorX": 174.0,
+    "anchorY": 471.0
+  },
+  "sofa-backLeft": {
+    "anchorX": 440.714286,
+    "anchorY": 439.357143
+  },
+  "sofa-backRight": {
+    "anchorX": 176.0,
+    "anchorY": 439.0
+  },
+  "lamp-frontLeft": {
+    "anchorX": 148.5,
+    "anchorY": 444.25
+  },
+  "lamp-frontRight": {
+    "anchorX": 155.5,
+    "anchorY": 444.25
+  },
+  "lamp-backLeft": {
+    "anchorX": 148.5,
+    "anchorY": 433.25
+  },
+  "lamp-backRight": {
+    "anchorX": 153.5,
+    "anchorY": 433.25
+  },
+  "aquarium-frontLeft": {
+    "anchorX": 308.5,
+    "anchorY": 451.25
+  },
+  "aquarium-frontRight": {
+    "anchorX": 163.0,
+    "anchorY": 449.5
+  },
+  "aquarium-backLeft": {
+    "anchorX": 314.5,
+    "anchorY": 449.75
+  },
+  "aquarium-backRight": {
+    "anchorX": 161.5,
+    "anchorY": 450.75
+  },
+  "television-frontLeft": {
+    "anchorX": 379.5,
+    "anchorY": 424.75
+  },
+  "television-frontRight": {
+    "anchorX": 37.5,
+    "anchorY": 423.25
+  },
+  "television-backLeft": {
+    "anchorX": 354.5,
+    "anchorY": 405.75
+  },
+  "television-backRight": {
+    "anchorX": 36.0,
+    "anchorY": 405.5
+  },
+  "bookcase-frontLeft": {
+    "anchorX": 273.75,
+    "anchorY": 849.625
+  },
+  "bookcase-frontRight": {
+    "anchorX": 165.75,
+    "anchorY": 854.375
+  },
+  "bookcase-backLeft": {
+    "anchorX": 310.625,
+    "anchorY": 995.6875
+  },
+  "bookcase-backRight": {
+    "anchorX": 160.875,
+    "anchorY": 810.9375
+  },
+  "green-drawers-frontLeft": {
+    "anchorX": 283.0,
+    "anchorY": 749.0
+  },
+  "green-drawers-frontRight": {
+    "anchorX": 196.0,
+    "anchorY": 660.5
+  },
+  "green-drawers-backLeft": {
+    "anchorX": 304.0,
+    "anchorY": 733.5
+  },
+  "green-drawers-backRight": {
+    "anchorX": 208.5,
+    "anchorY": 878.75
+  },
+  "sage-armchair-frontLeft": {
+    "anchorX": 336.0,
+    "anchorY": 580.0
+  },
+  "sage-armchair-frontRight": {
+    "anchorX": 338.0,
+    "anchorY": 680.0
+  },
+  "sage-armchair-backLeft": {
+    "anchorX": 348.57142857142856,
+    "anchorY": 539.7142857142858
+  },
+  "sage-armchair-backRight": {
+    "anchorX": 313.2857142857143,
+    "anchorY": 701.1428571428571
+  },
+  "white-bedside-frontLeft": {
+    "anchorX": 334.5,
+    "anchorY": 648.25
+  },
+  "white-bedside-frontRight": {
+    "anchorX": 242.5,
+    "anchorY": 592.75
+  },
+  "white-bedside-backLeft": {
+    "anchorX": 387.0,
+    "anchorY": 702.0
+  },
+  "white-bedside-backRight": {
+    "anchorX": 225.0,
+    "anchorY": 645.5
+  },
+  "wooden_table-frontLeft": {
+    "anchorX": 413.0,
+    "anchorY": 541.5
+  },
+  "wooden_table-frontRight": {
+    "anchorX": 215.5,
+    "anchorY": 547.75
+  },
+  "wooden_table-backLeft": {
+    "anchorX": 406.0,
+    "anchorY": 548.0
+  },
+  "wooden_table-backRight": {
+    "anchorX": 226.0,
+    "anchorY": 548.5
+  }
+}
