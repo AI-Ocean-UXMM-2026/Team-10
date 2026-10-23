@@ -2,7 +2,7 @@
 
 Nookstep source has no blanket open-source licence in this snapshot. Dependency licences below apply to their respective packages. Development tools and platform-specific optional packages retain their notices in their npm distributions. Next.js also includes compiled third-party licence notices in its installed distribution; preserve those when deploying.
 
-Runtime artwork: ToffeeCraft, Cozy Room - Isometric, https://toffeecraft.itch.io/cozy-room-pixel-asset-pack. Owner confirms Premium application use and authorizes local preparation only. The curated 67 PNGs are application assets, not a reusable asset pack. Repository collaborator/judge sharing permission remains an owner pre-publication decision. No original packs or receipts are included.
+Runtime artwork: ToffeeCraft, Cozy Room - Isometric, https://toffeecraft.itch.io/cozy-room-pixel-asset-pack. The project owner confirms purchased application-use rights and separately secured permission to include the 67 curated runtime PNGs as part of Nookstep in this public competition repository. The asset creator’s standard Premium licence permits use in productions but prohibits redistribution or resale of the assets themselves. The artwork is not open-source, and this repository grants no standalone redistribution or resale rights. The curated PNGs are application assets, not a reusable asset pack. No original packs or receipts are included.
 
 ## @emnapi/runtime 1.11.3
 
