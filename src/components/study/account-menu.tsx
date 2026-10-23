@@ -22,7 +22,9 @@ export function AccountMenu({ email, active, busy, onTimer, onSignOut, onRefresh
     return () => { document.removeEventListener('pointerdown', dismiss); document.removeEventListener('keydown', escape); };
   }, [open]);
   return <div className="account-menu" ref={root} onBlur={event => {
-    if (!event.currentTarget.contains(event.relatedTarget as Node | null)) setOpen(false);
+    // Safari can blur a button without focusing its pointer target before click.
+    // Keep that target mounted; outside pointer presses and Escape still dismiss.
+    if (event.relatedTarget && !event.currentTarget.contains(event.relatedTarget as Node)) setOpen(false);
   }}>
     <button ref={trigger} disabled={busy} aria-expanded={open} aria-controls={id} onClick={() => open ? close() : setOpen(true)}>Account <span aria-hidden="true">⌄</span></button>
     {open && <div ref={panel} id={id} className="account-popover" role="region" aria-label="Your account">
